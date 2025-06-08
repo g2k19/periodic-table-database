@@ -13,7 +13,7 @@ This project provides an interactive way to retrieve detailed information about 
 
 ## 🚀 How to Run
 
-1. **Set up PostgreSQL database:** `psql -U postgres < periodic_table.sql`.
+1. **Set up PostgreSQL database:** `psql --username=freecodecamp --dbname=postgres < periodic_table.sql`.
 1. **Make the script executable:** `chmod +x element.sh`.
 1. **Run queries:**
 ```bash
