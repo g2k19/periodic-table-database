@@ -24,4 +24,4 @@ This project provides an interactive way to retrieve detailed information about 
 
 ## freeCodeCamp Requirements
 
-This project fulfills all freeCodeCamp requirements
+This project fulfills all freeCodeCamp requirements.
